@@ -1,6 +1,6 @@
 ### Yo! 👋
 
-I'm currently a computer engineering student at Northeastern University 🏫 and love exploring, writing, reading, skiing, and sailing. I just want to be excited by technology and circumnavigate the globe by sailboat. 
+currently a computer engineering student at Northeastern University 🏫 and love exploring, skiing, and sailing. I just want to be excited by technology and circumnavigate the globe by sailboat. 
 
 - 📫 You can reach me quickest by [email](mailto:ddritzenhoff@gmail.com).
 - 😄 Pronouns: He/Him
