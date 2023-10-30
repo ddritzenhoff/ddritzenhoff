@@ -1,11 +1,6 @@
 ## Yo! 👋
 
 Currently a candidate for a Master's in Computer Science from the Technische Universität München (2023 - 2025) and recently completed my Bachelor's in Computer Engineering and Computer Science from Northeastern University (2018 - 2022). I just want to be excited by technology and circumnavigate the globe by sailboat.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ddritzenhoff"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-</p>
-
 <!--
 **ddritzenhoff/ddritzenhoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
