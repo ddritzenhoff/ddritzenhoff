@@ -1,4 +1,4 @@
-Currently a candidate for a master's in computer science at the Technische Universität München (2023 - 2025) and have a bachelor's degree in computer engineering and computer science from Northeastern University (2018 - 2022). I just want to be excited by technology and circumnavigate the globe by sailboat ⛵️🌏
+Currently a candidate for a master's in computer science at the Technische Universität München (2023 - 2025) and have a bachelor's degree in computer engineering and computer science from Northeastern University (2018 - 2022). I'm mostly interested in networking, systems, and security, and I'm a fiend for spending time in nature 🎿🏃⛵️
 <!--
 **ddritzenhoff/ddritzenhoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
